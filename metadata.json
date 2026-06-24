@@ -1,0 +1,6 @@
+{
+  "name": "The Om Gym Fitness Club",
+  "description": "Premium fitness club website with membership plans, service lists, facilities showcase, customer reviews, contact forms, and a beautiful premium gold and dark gray theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
